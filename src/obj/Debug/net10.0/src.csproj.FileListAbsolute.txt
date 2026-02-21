@@ -1,0 +1,14 @@
+/home/jussel/Documentos/-SIS-113-Programaci-n-II---Ing-Daniel-Quino/src/bin/Debug/net10.0/src
+/home/jussel/Documentos/-SIS-113-Programaci-n-II---Ing-Daniel-Quino/src/bin/Debug/net10.0/src.deps.json
+/home/jussel/Documentos/-SIS-113-Programaci-n-II---Ing-Daniel-Quino/src/bin/Debug/net10.0/src.runtimeconfig.json
+/home/jussel/Documentos/-SIS-113-Programaci-n-II---Ing-Daniel-Quino/src/bin/Debug/net10.0/src.dll
+/home/jussel/Documentos/-SIS-113-Programaci-n-II---Ing-Daniel-Quino/src/bin/Debug/net10.0/src.pdb
+/home/jussel/Documentos/-SIS-113-Programaci-n-II---Ing-Daniel-Quino/src/obj/Debug/net10.0/src.GeneratedMSBuildEditorConfig.editorconfig
+/home/jussel/Documentos/-SIS-113-Programaci-n-II---Ing-Daniel-Quino/src/obj/Debug/net10.0/src.AssemblyInfoInputs.cache
+/home/jussel/Documentos/-SIS-113-Programaci-n-II---Ing-Daniel-Quino/src/obj/Debug/net10.0/src.AssemblyInfo.cs
+/home/jussel/Documentos/-SIS-113-Programaci-n-II---Ing-Daniel-Quino/src/obj/Debug/net10.0/src.csproj.CoreCompileInputs.cache
+/home/jussel/Documentos/-SIS-113-Programaci-n-II---Ing-Daniel-Quino/src/obj/Debug/net10.0/src.dll
+/home/jussel/Documentos/-SIS-113-Programaci-n-II---Ing-Daniel-Quino/src/obj/Debug/net10.0/refint/src.dll
+/home/jussel/Documentos/-SIS-113-Programaci-n-II---Ing-Daniel-Quino/src/obj/Debug/net10.0/src.pdb
+/home/jussel/Documentos/-SIS-113-Programaci-n-II---Ing-Daniel-Quino/src/obj/Debug/net10.0/src.genruntimeconfig.cache
+/home/jussel/Documentos/-SIS-113-Programaci-n-II---Ing-Daniel-Quino/src/obj/Debug/net10.0/ref/src.dll

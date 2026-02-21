@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tKkxqLozX90=",
+  "success": true,
+  "projectFilePath": "/home/jussel/Documentos/-SIS-113-Programaci-n-II---Ing-Daniel-Quino/src/src.csproj",
+  "expectedPackageFiles": [
+    "/home/jussel/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.3/microsoft.aspnetcore.app.ref.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
