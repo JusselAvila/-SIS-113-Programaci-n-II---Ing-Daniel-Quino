@@ -6,7 +6,6 @@ namespace AlgoritmosOrdenamiento
     {
         public int[] Arreglo { get; private set; }
 
-        // El constructor ahora se encarga de crear y llenar el arreglo
         public Ordenamiento(int tamano)
         {
             Random rnd = new Random();
@@ -17,7 +16,6 @@ namespace AlgoritmosOrdenamiento
 
         public int[] ObtenerCopia() => (int[])Arreglo.Clone();
 
-        // Método solicitado para centralizar la impresión
         public void Mostrar(string mensaje, int[] arr)
         {
             Console.WriteLine($"{mensaje}: [{string.Join("][", arr)}]");
